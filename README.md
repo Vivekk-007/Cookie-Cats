@@ -808,7 +808,7 @@ and limitation in your own words.
 
 ------------------------------------------------------------------------
 
-## 15. Suggested Resume Bullet
+## 15. Suggested Bullet
 
 Use only if this accurately reflects the work you completed:
 
