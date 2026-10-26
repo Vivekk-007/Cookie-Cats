@@ -824,26 +824,7 @@ in the analyzed experiment.
 
 ------------------------------------------------------------------------
 
-## 16. Repository Checklist
-
-Before publishing this project on GitHub:
-
--   [ ] Include the README and English notebook.
--   [ ] Include the dataset only if its license and source terms permit
-    redistribution.
--   [ ] Make sure notebook outputs and charts run correctly from a clean
-    environment.
--   [ ] Add a source/attribution note for the original dataset.
--   [ ] Confirm all file paths are relative and reproducible.
--   [ ] Remove unnecessary installation or environment-specific cells.
--   [ ] Review the notebook for accurate interpretation of statistical
-    tests.
--   [ ] Do not claim business impact, revenue uplift, or production
-    deployment unless measured.
-
-------------------------------------------------------------------------
-
-## 17. Final Conclusion
+## 16. Final Conclusion
 
 The Cookie Cats experiment illustrates how business decisions can be
 improved by combining exploratory analysis with statistical testing. The
