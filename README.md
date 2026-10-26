@@ -787,7 +787,7 @@ Product Analyst, and Data Analyst roles:
 -   Translating results into business recommendations.
 -   Documenting limitations, risks, and follow-up actions.
 
-### Example interview explanation
+### explanation
 
 > "I analyzed an A/B test for Cookie Cats to determine whether moving a
 > progression gate from level 30 to level 40 affected engagement and
