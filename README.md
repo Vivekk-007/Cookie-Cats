@@ -199,7 +199,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
 cookie-cats-ab-testing/
 ├── README.md
 ├── cookie_cats.csv
-└── cookie_cats_ab_testing_project_english.ipynb
+└── cookie_cats_ab_testing.ipynb
 ```
 
 Keep the CSV in the same folder as the notebook unless you update the
@@ -221,7 +221,7 @@ path in the data-loading cell.
     jupyter notebook
     ```
 
-5.  Open `cookie_cats_ab_testing_project_english.ipynb`.
+5.  Open `cookie_cats_ab_testing.ipynb`.
 
 6.  Run the cells from top to bottom.
 
